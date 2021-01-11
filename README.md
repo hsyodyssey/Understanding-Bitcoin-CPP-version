@@ -1,1 +1,1 @@
-# Understanding-Bitcoin-CPP-veriosn
+# Understanding-Bitcoin-CPP-version
